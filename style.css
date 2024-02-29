@@ -35768,22 +35768,4 @@ body:not(.cursor-is--active) .player-info-carousel .slick-arrow {
     height: auto;
   }
 }
-/*
-File Name: 		custom.css
-Description:  You can add your custom CSS here and it will overwrite template styles
-*/
-/*# sourceMappingURL=maps/custom.css.map */
-.team-info-page .team-player__inner .ncr-page-decor {
-    position: absolute;
-    top: 10%;
-    right: -10%;
-    bottom: 0;
-    left: auto;
-    width: 550px;
-    height: 100%; }
-    
-.color-white{
-    color: white;
-}
-
 /*# sourceMappingURL=maps/style.css.map */
